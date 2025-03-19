@@ -1,0 +1,14 @@
+-comando
+mover
+avanzar
+prender
+apagar
+reversa
+
+
+-direccion
+izquierda
+derecha
+
+-lugares
+cocina
